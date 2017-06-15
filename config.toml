@@ -5,6 +5,9 @@ theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 
+# tip from blogdown
+relativeURLs = true
+
 # github directory
 publishDir = "public"
 
