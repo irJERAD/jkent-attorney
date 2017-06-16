@@ -6,7 +6,7 @@ enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 
 # tip from blogdown
-relativeURLs = true
+relativeurls = true
 
 # github directory
 publishDir = "public"
